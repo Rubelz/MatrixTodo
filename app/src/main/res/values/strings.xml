@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EisenMatrixTodo</string>
+    <string name="task_deleted">Task Deleted</string>
+
+<!--    Task Types-->
+    <string-array name="tbTitles">
+        <item>Important Urgent</item>
+        <item>Not Important Urgent</item>
+        <item>Important Not Urgent</item>
+        <item>Not Important Not Urgent</item>
+    </string-array>
+
+    <string name="IU">Important\nUrgent</string>
+    <string name="INU">"Important\nNot Urgent"</string>
+    <string name="NIU">"Not Important\nUrgent"</string>
+    <string name="NINU">"Not Important\nNot Urgent"</string>
+
+    <string name="winternight_picture_author">Photo by Martin Mariani: https://www.pexels.com/photo/green-pine-tree-on-snow-covered-ground-under-starry-sky-3801458/</string>
+</resources>
